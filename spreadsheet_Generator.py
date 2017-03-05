@@ -2,9 +2,7 @@ import pymysql
 import datetime
 import xlwt
 from classes_keywords import Teclado
-from classes_keywords import Fonte
-from classes_keywords import Bateria
-from classes_keywords import Tela
+
 import requests
 from datetime import date
 
